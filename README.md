@@ -152,4 +152,5 @@ DATA SCIENCE PROJECTS (a simple to start the datascience journey )
 
 2) Spam detection using python (https://towardsdatascience.com/spam-classifier-in-python-from-scratch-27a98ddd8e73)
 
+3)Complete end to end project - Image Classification (https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc)
 
